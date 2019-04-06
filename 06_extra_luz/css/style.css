@@ -40,10 +40,11 @@ h1{
     align-items: center;
     text-align: center;
 }
+
 .apagada{
     display: none;
 }
 
-.ascesa{
+.acesa{
     display: block;
 }

@@ -71,3 +71,7 @@ body {
     color: #ECDDF3;
     transition: 0.3s;
 }
+
+.icon:hover{
+    color:red;
+}
